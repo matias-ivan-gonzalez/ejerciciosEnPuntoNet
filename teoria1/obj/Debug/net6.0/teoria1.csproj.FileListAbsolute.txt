@@ -1,0 +1,15 @@
+G:\proyectosDotNet\teoria1\bin\Debug\net6.0\teoria1.exe
+G:\proyectosDotNet\teoria1\bin\Debug\net6.0\teoria1.deps.json
+G:\proyectosDotNet\teoria1\bin\Debug\net6.0\teoria1.runtimeconfig.json
+G:\proyectosDotNet\teoria1\bin\Debug\net6.0\teoria1.dll
+G:\proyectosDotNet\teoria1\bin\Debug\net6.0\teoria1.pdb
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.csproj.AssemblyReference.cache
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.AssemblyInfoInputs.cache
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.AssemblyInfo.cs
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.csproj.CoreCompileInputs.cache
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.dll
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\refint\teoria1.dll
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.pdb
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\teoria1.genruntimeconfig.cache
+G:\proyectosDotNet\teoria1\obj\Debug\net6.0\ref\teoria1.dll
