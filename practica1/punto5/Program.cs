@@ -11,7 +11,7 @@ else{
     }
     else{
         if (nombre == "Alberto"){
-            saludo == "Hola Alberto";
+            saludo = "Hola Alberto";
         }
         else{
             saludo = (string.IsNullOrEmpty(nombre)) ? "¡Buen día mundo!" : $"Buen día {nombre}";
@@ -28,11 +28,11 @@ switch (nombre)
     case "Juan":
         saludo = "¡Hola Amigo!";
         break;
-    case "María":
+    case "Maria":
         saludo = "Buen día señora";
         break;
     case "Alberto":
-        saludo == "Hola Alberto";
+        saludo = "Hola Alberto";
         break;
     case "":
         saludo = "¡Buen día mundo!";

@@ -1,6 +1,9 @@
 ﻿/*
 Comprobar el funcionamiento del siguiente fragmento de código, analizar el resultado y
 contestar las preguntas.
+
+¿Qué se puede concluir respecto del operador de división “/” ?
+¿Cómo funciona el operador + entre un string y un dato numérico?
 */
 
 Console.WriteLine("10/3 = " + 10 / 3);
@@ -17,4 +20,7 @@ double c = 3;
 Console.WriteLine("Si c es una variable double, c=3");
 Console.WriteLine("entonces a/c = " + a / c);
 // Devuelve 3,3333333333333335 ya que hablamos de variables double
+
+// Se concluye que el / obtiene el cociente de una división
+// El operador + entre string y dato numerico los unifica en una unica string
 Console.ReadLine();
