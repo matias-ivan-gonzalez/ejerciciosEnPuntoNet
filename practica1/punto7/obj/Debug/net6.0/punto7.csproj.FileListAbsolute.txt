@@ -1,0 +1,15 @@
+G:\proyectosDotNet\practica1\punto7\bin\Debug\net6.0\punto7.exe
+G:\proyectosDotNet\practica1\punto7\bin\Debug\net6.0\punto7.deps.json
+G:\proyectosDotNet\practica1\punto7\bin\Debug\net6.0\punto7.runtimeconfig.json
+G:\proyectosDotNet\practica1\punto7\bin\Debug\net6.0\punto7.dll
+G:\proyectosDotNet\practica1\punto7\bin\Debug\net6.0\punto7.pdb
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.csproj.AssemblyReference.cache
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.AssemblyInfoInputs.cache
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.AssemblyInfo.cs
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.csproj.CoreCompileInputs.cache
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.dll
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\refint\punto7.dll
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.pdb
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\punto7.genruntimeconfig.cache
+G:\proyectosDotNet\practica1\punto7\obj\Debug\net6.0\ref\punto7.dll
