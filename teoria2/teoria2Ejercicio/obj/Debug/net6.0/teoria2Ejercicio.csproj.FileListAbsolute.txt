@@ -1,0 +1,15 @@
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\bin\Debug\net6.0\teoria2Ejercicio.exe
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\bin\Debug\net6.0\teoria2Ejercicio.deps.json
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\bin\Debug\net6.0\teoria2Ejercicio.runtimeconfig.json
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\bin\Debug\net6.0\teoria2Ejercicio.dll
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\bin\Debug\net6.0\teoria2Ejercicio.pdb
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.csproj.AssemblyReference.cache
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.AssemblyInfoInputs.cache
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.AssemblyInfo.cs
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.csproj.CoreCompileInputs.cache
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.dll
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\refint\teoria2Ejercicio.dll
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.pdb
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\teoria2Ejercicio.genruntimeconfig.cache
+G:\proyectosDotNet\teoria2\teoria2Ejercicio\obj\Debug\net6.0\ref\teoria2Ejercicio.dll
