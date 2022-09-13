@@ -1,0 +1,15 @@
+G:\proyectosDotNet\practica2\punto18\bin\Debug\net6.0\punto18.exe
+G:\proyectosDotNet\practica2\punto18\bin\Debug\net6.0\punto18.deps.json
+G:\proyectosDotNet\practica2\punto18\bin\Debug\net6.0\punto18.runtimeconfig.json
+G:\proyectosDotNet\practica2\punto18\bin\Debug\net6.0\punto18.dll
+G:\proyectosDotNet\practica2\punto18\bin\Debug\net6.0\punto18.pdb
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.csproj.AssemblyReference.cache
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.AssemblyInfoInputs.cache
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.AssemblyInfo.cs
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.csproj.CoreCompileInputs.cache
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.dll
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\refint\punto18.dll
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.pdb
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\punto18.genruntimeconfig.cache
+G:\proyectosDotNet\practica2\punto18\obj\Debug\net6.0\ref\punto18.dll
