@@ -10,21 +10,22 @@ void ImprimirMatrizConFormato(double[,] matriz, string formatString)
 void ImprimirMatrizConFormato(double[,] matriz, string formatString){
     for (int i = 0; i < matriz.GetLength(0); i++){
         for (int j = 0; j < matriz.GetLength(1); j++){
-            Console.Write(string.Format(formatString, matriz[i,j]));
+            Console.Write($"{matriz[i,j].ToString(formatString)} | ");
+            //!TODO: REVISAR
         }
         Console.WriteLine();
     }
     Console.WriteLine("\n");
 }
 double[,] matriz = new double[,]
-{ {1,2,3,4},
+{ {1.23,2.1,3.1231,4.1},
   {5,6,7,8},
   {9,10,11,12}
 };
-ImprimirMatrizConFormato(matriz,"<- {0} ->");
-ImprimirMatrizConFormato(matriz,"--- {0} ---");
-ImprimirMatrizConFormato(matriz,"<<< {0} >>>");
-ImprimirMatrizConFormato(matriz,"~~~ {0} ~~~");
-ImprimirMatrizConFormato(matriz,"||| {0} |||");
+ImprimirMatrizConFormato(matriz,"0.0");
+ImprimirMatrizConFormato(matriz,"0.00");
+ImprimirMatrizConFormato(matriz,"0.000");
+ImprimirMatrizConFormato(matriz,"0.0000");
+
 
 Console.ReadLine();
