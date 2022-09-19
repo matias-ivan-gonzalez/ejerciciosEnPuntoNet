@@ -1,0 +1,5 @@
+G:\proyectosDotNet\practica3\punto8\obj\Debug\net6.0\punto8.csproj.AssemblyReference.cache
+G:\proyectosDotNet\practica3\punto8\obj\Debug\net6.0\punto8.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectosDotNet\practica3\punto8\obj\Debug\net6.0\punto8.AssemblyInfoInputs.cache
+G:\proyectosDotNet\practica3\punto8\obj\Debug\net6.0\punto8.AssemblyInfo.cs
+G:\proyectosDotNet\practica3\punto8\obj\Debug\net6.0\punto8.csproj.CoreCompileInputs.cache
