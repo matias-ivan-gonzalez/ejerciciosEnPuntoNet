@@ -17,5 +17,5 @@ var e = new { Nombre = "Maria", Edad = 20 };
 var f = new { Edad = 20, Nombre = "Maria" };
 f.Edad = 22; // No se puede asignar de esta manera al objeto anonimo porque es de solo lectura
 d = c;
-e = d;
-f = e;
+e = d; // No se puede asignar tipos anonimos con propiedades distintas
+f = e; // Los objetos estan declarados en ordenes distintos
