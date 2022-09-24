@@ -1,0 +1,15 @@
+G:\proyectosDotNet\practica3\punto13\bin\Debug\net6.0\punto13.exe
+G:\proyectosDotNet\practica3\punto13\bin\Debug\net6.0\punto13.deps.json
+G:\proyectosDotNet\practica3\punto13\bin\Debug\net6.0\punto13.runtimeconfig.json
+G:\proyectosDotNet\practica3\punto13\bin\Debug\net6.0\punto13.dll
+G:\proyectosDotNet\practica3\punto13\bin\Debug\net6.0\punto13.pdb
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.csproj.AssemblyReference.cache
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.AssemblyInfoInputs.cache
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.AssemblyInfo.cs
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.csproj.CoreCompileInputs.cache
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.dll
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\refint\punto13.dll
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.pdb
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\punto13.genruntimeconfig.cache
+G:\proyectosDotNet\practica3\punto13\obj\Debug\net6.0\ref\punto13.dll
