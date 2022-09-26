@@ -15,13 +15,29 @@ desde un archivo de texto.
 */
 
 void cargarPersonas(){
-    string input;
+    string input = "";
     int i = 1;
+    Console.WriteLine("Con -1 en cualquier entrada de datos saldrá del programa");
     do {
-        new Persona().imprimirDatos(i);
-        i++;
-        Console.WriteLine("Escriba -1 para salir o toque enter para continuar");
-        input = Console.ReadLine();
+        try{
+            Console.Write("Ingrese nombre, documento y edad separados por comas y en ese mismo orden: ");
+            input = Console.ReadLine();
+            string[] atributos = input.Split(",");
+            string nombre = atributos[0];
+            int dni = int.Parse(atributos[1]);
+            int edad = int.Parse(atributos[2]);
+            Persona p1 = new Persona(nombre,dni,edad);
+            p1.imprimirDatos(i);
+            i++;    
+        }
+        catch (System.Exception){
+            if (input == "-1"){
+                Console.WriteLine("La ejecución ha finalizado");
+            }
+            else{
+                Console.WriteLine("Ha ocurrido un error, respete el formato de ingreso");
+            }
+        }
     }
     while(input != "-1");
 }
@@ -34,17 +50,18 @@ public class Persona{
     public int edad;
     public int dni;
 
-    public Persona(){
-        Console.Write("Ingrese nombre, documento y edad separados por comas y en ese mismo orden: ");
-        string entrada = Console.ReadLine();
-        string[] atributos = entrada.Split(",");
-        this.nombre = atributos[0];
-        this.dni = int.Parse(atributos[1]);
-        this.edad = int.Parse(atributos[2]);
+    public Persona(string nombre, int edad, int dni){
+        this.nombre = nombre;
+        this.dni = dni;
+        this.edad = edad;
     }
 
     public void imprimirDatos(int posicion){
-        Console.WriteLine($"{posicion} {nombre} {edad} {dni}");
+        Console.WriteLine($"{posicion}) {nombre} {edad} {dni}");
+    }
+
+    public void imprimirDatos(){
+        Console.WriteLine($"{nombre} {edad} {dni}");
     }
 }
 
