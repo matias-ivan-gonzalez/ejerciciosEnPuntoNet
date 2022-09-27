@@ -16,6 +16,10 @@ En caso de no poseer soluciones reales debe imprimir una leyenda que
 así lo especifique.
 */
 
+Ecuacion2 e2 = new Ecuacion2(15,1000,1);
+e2.ImprimirRaices();
+Console.ReadLine();
+
 public class Ecuacion2{
     double _a;
     double _b;
