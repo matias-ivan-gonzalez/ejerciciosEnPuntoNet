@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Aplicacion\\Aplicacion.csproj": {}
+  },
+  "projects": {
+    "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Aplicacion\\Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Aplicacion\\Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Automotores\\Automotores.csproj": {
+                "projectPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Automotores\\Automotores.csproj"
+              },
+              "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Figuras\\Figuras.csproj": {
+                "projectPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Figuras\\Figuras.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Automotores\\Automotores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Automotores\\Automotores.csproj",
+        "projectName": "Automotores",
+        "projectPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Automotores\\Automotores.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Automotores\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Figuras\\Figuras.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Figuras\\Figuras.csproj",
+        "projectName": "Figuras",
+        "projectPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Figuras\\Figuras.csproj",
+        "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
+        "outputPath": "G:\\proyectosDotNet\\practica4\\AplicacionDeFigurasYAutomotores\\Figuras\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
