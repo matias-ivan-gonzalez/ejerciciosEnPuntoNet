@@ -13,6 +13,12 @@ foreach (A a in vector){
         a.Imprimir();
     }
 }
+Console.WriteLine();
+foreach (A a in vector){
+    if((a is B) && !(a is C)){
+        a.Imprimir();
+    }
+}
 Console.ReadLine();
 
 class A {
