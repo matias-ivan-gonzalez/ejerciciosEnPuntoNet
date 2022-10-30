@@ -1,4 +1,4 @@
 namespace punto1;
 public interface IAlquilable{
-    public void SeAlquilaA(Persona p);
+    public void SeAlquilaA(dynamic p);
 }

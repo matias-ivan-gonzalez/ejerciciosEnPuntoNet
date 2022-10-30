@@ -29,7 +29,7 @@ Secando auto
 Vendiendo auto a persona
 Vendiendo perro a persona
 */
-
+using punto1;
 Auto auto = new Auto();
 Libro libro = new Libro();
 Persona persona = new Persona();
